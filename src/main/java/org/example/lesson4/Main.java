@@ -1,6 +1,6 @@
-package org.example;
+package org.example.lesson4;
 
-import org.example.entity.Product;
+import org.example.lesson4.entity.Product;
 
 import java.sql.*;
 import java.util.HashSet;
